@@ -41,6 +41,6 @@
 
 ## 팀원
 
-- [박승현] (https://github.com/seunghyun-24?tab=repositories) : 문제정의, 코드 작성, 실험 진행 및 결과 분석
+- [박승현](https://github.com/seunghyun-24?tab=repositories) : 문제정의, 코드 작성, 실험 진행 및 결과 분석
 - [김규민] : 코드 작성
 - [김상엽] : 코드 작성 
