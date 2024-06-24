@@ -24,15 +24,25 @@
 
 ## 환경 설정
 
-- Python 3.8 ≥
+- Python ≥ 3.8 
+- GPU : GTX4090
   
 
 ## 사용 방법
+💥 해당 dataset은 메일을 통해 받을 수 있는 자료로, https://icsdweb.aegean.gr/awid/awid3 에서 받아야 합니다. <br />
+📁 Dataset을 CSV 폴더 안에 넣어서 해당 실험을 진행할 수 있습니다. <br />
+🐍 모든 코드는 ipynb로 구성하였기에, 경로 지정만 수정하여 실행하면 됩니다. <br />
+👀 주로 사용한 경로 : /data/experience/wireless/CSV/
+🤍 make_dataset, network_preprocess_complete, test 실행 후 result_figure 를 실행하면 figure로 결과를 쉽게 확인할 수 있습니다! 
 
-(프로젝트 실행 방법 (명령어 등)을 적어주세요.)
+## 결과
+![result1](https://github.com/seunghyun-24/WiFIDS/assets/98291947/33cc6a34-2139-4c20-9c2a-b1b065b83142)
+![result2](https://github.com/seunghyun-24/WiFIDS/assets/98291947/091869ab-c888-4e0c-b291-0b842a22ad29)
+![result3](https://github.com/seunghyun-24/WiFIDS/assets/98291947/1db11999-1ca2-4918-8b14-b680b49cfbe4)
 
-## 예시 결과
-💥 Demo 영상입니다. <br />
+💐
+
+real-time detection 상황을 가상으로 세팅하여 진행한 Demo 영상입니다. <br />
 ![view](https://github.com/seunghyun-24/WiFIDS/assets/98291947/183773b0-6498-4966-a2e7-fd2bb3253382)
  <br />
 ➽ 왼쪽 : receiver (WiFIDS, 탐지자) <br />
