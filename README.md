@@ -52,7 +52,7 @@
 📁 Dataset을 CSV 폴더 안에 넣어서 해당 실험을 진행할 수 있습니다. <br />
 🐍 모든 코드는 ipynb로 구성하였기에, 경로 지정만 수정하여 실행하면 됩니다. <br />
 👀 주로 사용한 경로 : /data/experience/wireless/CSV/
-🤍 make_dataset, network_preprocess_complete, test 실행 후 result_figure 를 실행하면 figure로 결과를 쉽게 확인할 수 있습니다! 
+🤍 make_dataset, network_preprocess_complete 실행 후 result_figure 를 실행하면 figure로 결과를 쉽게 확인할 수 있습니다! 
 
 ## 결과
 ![result1](https://github.com/seunghyun-24/WiFIDS/assets/98291947/33cc6a34-2139-4c20-9c2a-b1b065b83142)
