@@ -12,9 +12,9 @@
 
 ✅ weakly-supervised learning을 이용한 무선 네트워크 자동 탐지 시스템
 
-무선 네트워크에서 ✧통신의 안전성✧을 보장하려면, ➽새로운 공격➽을 빠르게 감지하여 막아낼 수 있어야 합니다. <br />
-현재 침입 탐지 시스템(IDS : Instruction Detection System)은, ✔지도 학습✔ 방식으로 이루어져 새로운 공격 패턴을 식별하는 능력이 제한적입니다. <br />
-최소한의 라벨링 데이터를 사용한 ✔few-shot learning✔으로 weakly-supervised learning을 진행하여, <br />
+무선 네트워크에서 ✨통신의 안전성✨을 보장하려면, ➡️새로운 공격⬅️을 빠르게 감지하여 막아낼 수 있어야 합니다. <br />
+현재 침입 탐지 시스템(IDS : Instruction Detection System)은, 지도 학습 방식으로 이루어져 새로운 공격 패턴을 식별하는 능력이 제한적입니다. <br />
+최소한의 라벨링 데이터를 사용한 <ins>✔few-shot learning✔</ins>으로 <ins>✔weakly-supervised learning✔</ins>을 진행하여, <br />
 다양한 형식의 패킷 기반 공격을 빠르게 탐지할 수 있도록 (더 나아가 새로운 형식의 공격 기법까지!) 새로운 IDS 방식을 보인 ⭐WiFIDS⭐를 구현해보았습니다!
 
 
