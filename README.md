@@ -20,7 +20,15 @@
 
 ## 방법론
 
-(i) **Few-shot Learning Model 제안** : 새로운 형식의 패킷 기반 무선 공격을 탐지하기 위해 맞춤화된 few-shot 모델입니다. 새로운 공격에 대해 제한된 레이블이 지정된 데이터 문제를 해결하여 실제 네트워크 보안 시나리오에서 작동할 수 있는 것을 목표로 하였습니다. <br />
+(i) **Few-shot Learning Model 제안** : 새로운 형식의 패킷 기반 무선 공격을 탐지하기 위해 설계된 few-shot 학습 모델입니다. 소량의 labeled data를 사용하여 새로운 공격 패턴을 효율적으로 탐지하도록 설계하였습니다. 
+
+모델 구조 : <img width="661" alt="image" src="https://github.com/seunghyun-24/WiFIDS/assets/98291947/3d5e6af3-56b1-46c2-9fa9-5f71ae8396ef">
+
+- 자동 인코더(Autoencoder): WiFIDS의 핵심 구성 요소입니다. 입력 데이터를 압축된 잠재 공간(latent space)으로 변환한 후, 이를 다시 원래의 입력으로 재구성(reconstruct)하는 과정을 거치며, 여기서 데이터의 중요한 특징들을 학습합니다. 
+- 인코더(Encoder): 인코더는 입력 데이터를 잠재 벡터(latent vector)로 변환합니다.
+- 디코더(Decoder): 디코더는 잠재 벡터로부터 입력 데이터를 재구성합니다.
+- 분류기(Classifier): 인코더에서 생성된 잠재 벡터는 분류기로 입력되어 정상 트래픽과 공격 트래픽을 구분하는 데 사용됩니다.
+
 
 (ii) **Feasibility 위한 수학적 모델링** : 수학적 모델링을 바탕으로, 제안된 모델의 타당성과 이론적 토대를 입증하고자 노력했습니다. <br />
 <p>$\it{\small{\color{#C0C0C0}↳ 여기() 참고}}$</p> 
