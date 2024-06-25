@@ -40,15 +40,6 @@
 ![result2](https://github.com/seunghyun-24/WiFIDS/assets/98291947/091869ab-c888-4e0c-b291-0b842a22ad29)
 ![result3](https://github.com/seunghyun-24/WiFIDS/assets/98291947/1db11999-1ca2-4918-8b14-b680b49cfbe4)
 
-💐
-
-real-time detection 상황을 가상으로 세팅하여 진행한 Demo 영상입니다. <br />
-![view](https://github.com/seunghyun-24/WiFIDS/assets/98291947/183773b0-6498-4966-a2e7-fd2bb3253382)
- <br />
-➽ 왼쪽 : receiver (WiFIDS, 탐지자) <br />
-➽ 오른쪽 : sender (기본 패킷, 악성 패킷 전송자)
-
-
 ## 팀원
 
 - [박승현](https://github.com/seunghyun-24?tab=repositories) : 문제정의, 코드 작성, 실험 진행 및 결과 분석
