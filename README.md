@@ -29,6 +29,8 @@
 
 (iv) **기존 방법과의 비교/analysis** : 제안한 모델을 기존 패킷 탐지 방법과 비교하여 탐지 정확도, 새로운 공격에 대한 적응성 및 계산 효율성 측면에서 장점을 강조했습니다. <br />
 
+💜 실험, analysis에 대해서는 <a href="https://aiku.notion.site/WiFIDS-29b8250399f640599fafe9f0faa4e992?pvs=4" style="color: #C0C0C0;">aiku 공식 노션</a> 참고
+
 ## 환경 설정
 
 - Python ≥ 3.8 
