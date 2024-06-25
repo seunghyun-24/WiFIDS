@@ -7,7 +7,7 @@
 🎉 2024년 1학기 AIKU Conference 열심히상 수상!
 
 ---
-
+    
 ## 소개
 
 ✅ weakly-supervised learning을 이용한 무선 네트워크 자동 탐지 시스템
@@ -31,7 +31,9 @@
 
 
 (ii) **Feasibility 위한 수학적 모델링** : 수학적 모델링을 바탕으로, 제안된 모델의 타당성과 이론적 토대를 입증하고자 노력했습니다. <br />
-<p>$\it{\small{\color{#C0C0C0}↳ 여기() 참고}}$</p> 
+↳ <a href="https://seunghyun-24.notion.site/AIKU-_-WiFIDS-Math-detail-98250f663b754e79b8d381207e3e7c7c?pvs=4" style="color: #C0C0C0;">📝</a> 참고 
+<sub><span style="color: #C0C0C0;">(클릭 시 이동합니다!)</span></sub>
+
 
 (iii) **실험/검증** : 다양한 wireless 네트워크 공격에 대한 모델의 효율성을 검증하기 위해 실험을 수행했습니다. 모델이 최소한의 labeled data로 공격 패턴을 탐지 가능함을 보입니다. <br />
 
@@ -61,4 +63,5 @@
 
 - [박승현](https://github.com/seunghyun-24?tab=repositories) : 문제정의, 코드 작성, 실험 진행 및 결과 분석
 - [김규민] : 코드 작성
-- [김상엽] : 코드 작성 
+- [김상엽] : 코드 작성
+
